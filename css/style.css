@@ -1,0 +1,8 @@
+#icon-comment-subscriptions {background: url("images/icons32.png") no-repeat scroll -370px -5px transparent;}
+.form-table td input#subject{
+	width:500px;
+	}
+.form-table td textarea{
+    width:500px;
+}	
+.form-table td input#display{width:500px;}
